@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pamy's Baon
 
 You can use the [editor on GitHub](https://github.com/pamysyling/pamysyling.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
