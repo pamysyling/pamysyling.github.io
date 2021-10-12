@@ -1,6 +1,6 @@
 ## Welcome to Pamy's Baon
 
-<div align="center"><img src="olivia-eating.jpg" width="600" height="400" alt="description-of-image" /></div>
+<div align="center"><img src="olivia-eating.jpg" alt="Hello there" /></div>
 
 You can use the [editor on GitHub](https://github.com/pamysyling/pamysyling.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
